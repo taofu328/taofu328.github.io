@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on taofu的博客</title>
-    <link>https://taofu328.github.io/post/</link>
-    <description>Recent content in Posts on taofu的博客</description>
+    <title>docker on taofu的博客</title>
+    <link>https://taofu328.github.io/tags/docker/</link>
+    <description>Recent content in docker on taofu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 20 Feb 2020 01:53:55 +0800</lastBuildDate>
     
-	<atom:link href="https://taofu328.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taofu328.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://taofu328.github.io/post/centos8installdockerce/</guid>
       <description>添加软件源 为了方便添加软件源，支持 devicemapper 存储类型，安装如下软件包 $ sudo yum install -y yum-utils device-mapper-persistent-data lvm2 添加 Docker 稳定版本的 yum 软件源 $ sudo yum-config-manager --add-repo \ https://download.docker.com/linux/centos/docker-ce.repo 安装Docker CE 官方给出的</description>
-    </item>
-    
-    <item>
-      <title>centos7下lvm磁盘扩容</title>
-      <link>https://taofu328.github.io/post/centos7-lvm-extend/</link>
-      <pubDate>Sun, 16 Feb 2020 19:41:26 +0800</pubDate>
-      
-      <guid>https://taofu328.github.io/post/centos7-lvm-extend/</guid>
-      <description>机器有两块硬盘，安装操作系统的时候用了一块，准备把另一块扩充进来。 查看现有的硬盘分区 [root@indexserver1b ~]# df -h 文件系统 容量 已用 可用 已用% 挂载点 /dev/mapper/cl-root 50G 3.3G 47G 7% / devtmpfs 7.7G</description>
     </item>
     
   </channel>

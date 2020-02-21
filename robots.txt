@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://taofu328.github.io/sitemap.xml
+Sitemap: https://taofu328.github.io/sitemap.xml

@@ -1,57 +1,78 @@
-<?xml-stylesheet type="text/xsl" href="http://taofu328.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://taofu328.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://taofu328.github.io/tags/centos/</loc>
+    <loc>https://taofu328.github.io/about/</loc>
+    <lastmod>2020-02-17T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/tags/centos/</loc>
+    <lastmod>2020-02-20T01:53:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/post/centos8installdockerce/</loc>
+    <lastmod>2020-02-20T01:53:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/tags/docker/</loc>
+    <lastmod>2020-02-20T01:53:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/post/</loc>
+    <lastmod>2020-02-20T01:53:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/tags/</loc>
+    <lastmod>2020-02-20T01:53:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/</loc>
+    <lastmod>2020-02-20T01:53:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://taofu328.github.io/post/centos7-lvm-extend/</loc>
     <lastmod>2020-02-16T19:41:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://taofu328.github.io/post/centos7-lvm-extend/</loc>
+    <loc>https://taofu328.github.io/tags/linux/</loc>
     <lastmod>2020-02-16T19:41:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://taofu328.github.io/tags/linux/</loc>
+    <loc>https://taofu328.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2020-02-16T19:41:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://taofu328.github.io/post/</loc>
-    <lastmod>2020-02-16T19:41:26+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://taofu328.github.io/tags/</loc>
-    <lastmod>2020-02-16T19:41:26+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://taofu328.github.io/</loc>
-    <lastmod>2020-02-16T19:41:26+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://taofu328.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2020-02-16T19:41:26+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://taofu328.github.io/categories/</loc>
+    <loc>https://taofu328.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
